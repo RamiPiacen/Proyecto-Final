@@ -1,0 +1,33 @@
+/*nuestra historia*/
+
+.nuestra-historia {
+    display: flex;
+    margin-top: 160px;
+    width: 100%;
+    margin-left: 30px;
+    letter-spacing: 1px;
+    line-height: 30px;
+  }
+  .nuestra-historia p {
+    text-align: center;
+    width: 60%;
+    margin-left: 5%;
+    margin-top: 12px;
+  }
+  .imagen-nuestra-historia {
+    width: 50%;
+    position: relative;
+    left: 25%;
+    z-index: -1;
+    border-radius: 10px;
+  }
+  .parafo-dos-ni {
+    text-align: center;
+    width: 80%;
+  }
+  .parrafo-dos-ni p {
+    letter-spacing: 1px;
+    line-height: 30px;
+  }
+  
+  /* fin nuestra historia*/
